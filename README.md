@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Trey, a passionate developer with a love for crafting digital experiences and solving problems through code. Whether it's building sleek and responsive websites, diving into the world of game development, or tweaking the intricacies of Minecraft through modding, I'm always up for a challenge.
+I'm Trey, a passionate developer with a love for crafting digital experiences and solving problems through code. Whether it's building sleek and responsive websites, diving into the world of game development, I'm always up for a challenge.
 
 
 ## 🌐 Socials:
