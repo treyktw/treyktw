@@ -11,7 +11,7 @@ I'm Trey, a passionate developer with a love for crafting digital experiences an
 ![](https://github-readme-stats.vercel.app/api?username=Treyktw&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Treyktw&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Treyktw&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<a href="https://gitroll.io/profile/uGchqvAhHK7dAMgzz7RcF4KnwWht1" target="_blank"><img width="60px" height="60px" src="https://gitroll.io/api/badges/profiles/v1/uGchqvAhHK7dAMgzz7RcF4KnwWht1" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uGchqvAhHK7dAMgzz7RcF4KnwWht1" target="_blank"><img width="500px" height="500px" src="https://gitroll.io/api/badges/profiles/v1/uGchqvAhHK7dAMgzz7RcF4KnwWht1" alt="GitRoll Profile Badge"/></a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
